@@ -1,4 +1,4 @@
-# Импорты
+# Импорты - уимпорты
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, RegexHandler
 
 from glob import glob
